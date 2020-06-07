@@ -21,6 +21,7 @@ Vue.use(VCharts)
 
 Vue.config.productionTip = false
 
+
 new Vue({
   el: '#app',
   router,
